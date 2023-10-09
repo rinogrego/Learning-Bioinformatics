@@ -1,0 +1,5 @@
+Introduction to Bioconductor and Public Genomic Data in R
+https://www.youtube.com/watch?v=dc77edcNp3M
+
+
+GEOquery
